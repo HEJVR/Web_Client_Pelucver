@@ -153,6 +153,9 @@ h6 {
 	border-radius: 30px;
 	margin-top: 30px;
 }
+.catalogo{
+	margin-top: 80px;
+}
 .banner-btn:hover {
 	background: #ffffff;
 	color:#914691;
