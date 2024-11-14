@@ -562,3 +562,16 @@ h6 {
 	padding: 150px 0px 100px;
 }
 }
+
+.img_padre{
+	display: flex;
+    flex-wrap: wrap; /* Permite que los elementos se ajusten en múltiples filas */
+    gap: 10px; /* Espacio entre las imágenes */
+
+}
+
+
+.img_extra{
+	width: 350px;
+	height: auto;
+}	
