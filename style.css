@@ -566,12 +566,16 @@ h6 {
 .img_padre{
 	display: flex;
     flex-wrap: wrap; /* Permite que los elementos se ajusten en múltiples filas */
-    gap: 10px; /* Espacio entre las imágenes */
+	justify-content: center; /* Centra los elementos en el eje principal (horizontal) */
+	margin-bottom: 100px;
+
+    gap: 100px; /*Espacio entre las imágenes*/
 
 }
 
 
 .img_extra{
-	width: 350px;
+	width: 650px;
 	height: auto;
+	margin:0px 100px;
 }	
